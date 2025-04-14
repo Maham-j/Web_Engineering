@@ -8,7 +8,7 @@ public class Termination{
 	public static void main(String[] args){
 		int count = 0;
 		Scanner in = new Scanner(System.in);
-		Basic cal = new Basic();
+		Termination cal = new Termination();
 		
 		
 		while(true){
